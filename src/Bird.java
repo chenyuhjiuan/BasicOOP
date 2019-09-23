@@ -1,7 +1,7 @@
 public class Bird extends Animal{
 
     public Bird() {
-        //super();
+        super();
         System.out.println("A bird is hatched...");
     }
 
